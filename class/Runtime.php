@@ -76,6 +76,8 @@ class Runtime extends Utils\DocHooks {
 
 		$this->files = new Utils\Files( $this->plugin_file );
 
+		$this->core_screen = new Core\Screen();
+
 	}
 
 	/**

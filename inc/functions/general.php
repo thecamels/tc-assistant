@@ -25,7 +25,7 @@ function tc_assistant_add_doc_hooks( $object ) {
  * @return TheCamels\Assistant\Utils\View
  */
 function tc_assistant_create_view() {
-	return notification_runtime()->view();
+	return tc_assistant_runtime()->view();
 }
 
 /**
