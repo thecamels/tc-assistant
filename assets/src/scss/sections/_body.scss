@@ -4,6 +4,10 @@
 		margin: 0 auto;
 		max-width: 800px;
 
+		@media only screen and (max-width: 870px) {
+			padding: 0 1rem;
+		}
+
 		.tc-assistant-category {
 			margin-bottom: 3rem;
 
