@@ -1,0 +1,43 @@
+{
+	"name": "the-camels-assistant",
+	"version": "1.0.0",
+	"description": "The Camels Assistant Plugin",
+	"author": "BracketSpace",
+	"license": "GPL-3.0-or-later",
+	"scripts": {
+		"start": "wp-scripts start --mode development",
+		"build": "wp-scripts build --mode development",
+		"build:production": "wp-scripts build --mode production",
+		"lint:scripts": "eslint -c .eslintrc.prod ./assets/src/js/**/*.js",
+		"lint:styles": "stylelint ./assets/src/scss/**/*.scss",
+		"fix:scripts": "eslint -c .eslintrc.prod ./assets/src/js/**/*.js --fix",
+		"fix:styles": "stylelint ./assets/src/scss/**/*.scss --fix",
+		"lint": "run-p \"lint:*\"",
+		"fix": "run-p \"fix:*\""
+	},
+	"devDependencies": {
+		"@babel/plugin-proposal-class-properties": "^7.7.4",
+		"@babel/plugin-proposal-decorators": "^7.7.4",
+		"@wordpress/scripts": "^6.0.0",
+		"clean-webpack-plugin": "^3.0.0",
+		"css-loader": "^3.2.0",
+		"eslint": "^6.7.1",
+		"eslint-loader": "^3.0.2",
+		"extract-text-webpack-plugin": "^4.0.0-beta.0",
+		"file-loader": "^5.0.2",
+		"node-sass": "^4.13.0",
+		"npm-run-all": "^4.1.5",
+		"perfectionist": "^2.4.0",
+		"pixrem": "^5.0.0",
+		"postcss-loader": "^3.0.0",
+		"sass-loader": "^8.0.0",
+		"style-loader": "^1.0.0",
+		"stylelint-order": "^3.1.1",
+		"stylelint-webpack-plugin": "^1.1.0",
+		"webpack-extraneous-file-cleanup-plugin": "^2.0.0",
+		"normalize-scss": "^7.0.1"
+	},
+	"browserslist": [
+		"extends @wordpress/browserslist-config"
+	]
+}

@@ -1,0 +1,17 @@
+---
+extends:
+  - stylelint-config-wordpress/scss
+plugins:
+  - stylelint-order
+rules:
+  max-line-length: null
+  function-url-quotes: always
+  order/order:
+    - custom-properties
+    - declarations
+    - rules
+  order/properties-alphabetical-order: true
+  color-named:
+    - never
+    - ignore:
+        - inside-function
