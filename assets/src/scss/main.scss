@@ -1,0 +1,12 @@
+.dashboard_page_tcassistant {
+
+	#wpcontent,
+	&.auto-fold #wpcontent {
+		padding-left: 0;
+	}
+
+}
+
+@import "sections/header";
+@import "sections/body";
+@import "components/checklist-item";
