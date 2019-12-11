@@ -25,6 +25,7 @@
 	}
 
 	.content-col {
+		flex-grow: 1;
 
 		h3 {
 			display: inline-block;
@@ -50,8 +51,8 @@
 		}
 
 		.button {
-			color: #737373;
 			border-color: #737373;
+			color: #737373;
 		}
 
 	}
