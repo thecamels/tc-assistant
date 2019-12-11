@@ -15,5 +15,8 @@
 		"psr-4": {
 			"TheCamels\\Assistant\\": "class"
 		}
+	},
+	"require": {
+		"symfony/yaml": "^5.0"
 	}
 }

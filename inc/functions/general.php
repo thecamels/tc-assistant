@@ -68,3 +68,25 @@ function tc_assistant_dochooks_enabled() {
 		return (bool) strpos( $doc, '@action' );
 	}
 }
+
+/**
+ * Created unique hash ID for a checklist item.
+ *
+ * @since  1.0.0
+ * @param  string $category_name Category name.
+ * @param  array  $item          Item array.
+ * @return string
+ */
+function tc_assistant_create_item_id( $category_name, $item ) {
+	$src = $category_name . $item['title'];
+
+	if ( $item['link'] ) {
+		$src .= $item['link'];
+	}
+
+	if ( $item['description'] ) {
+		$src .= $item['description'];
+	}
+
+	return md5( $src );
+}

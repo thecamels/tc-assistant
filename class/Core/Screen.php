@@ -7,6 +7,8 @@
 
 namespace TheCamels\Assistant\Core;
 
+use TheCamels\Assistant\Interfaces;
+
 /**
  * Screen class
  */
@@ -18,6 +20,25 @@ class Screen {
 	 * @var string
 	 */
 	public $page_hook = 'none';
+
+	/**
+	 * Checklist object
+	 *
+	 * @var Interfaces\Yamlable
+	 */
+	protected $checklist;
+
+	/**
+	 * Class constructor
+	 *
+	 * @since 1.0.0
+	 * @param Interfaces\Yamlable $checklist Yamlable instance.
+	 */
+	public function __construct( Interfaces\Yamlable $checklist ) {
+
+		$this->checklist = $checklist;
+
+	}
 
 	/**
 	 * Registers plugin screen
@@ -47,6 +68,7 @@ class Screen {
 	 */
 	public function extensions_page() {
 		$view = tc_assistant_create_view();
+		$view->set_var( 'checklist', $this->checklist->get_config() );
 		$view->get_view( 'admin-page' );
 	}
 

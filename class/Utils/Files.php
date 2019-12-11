@@ -121,6 +121,16 @@ class Files {
 	}
 
 	/**
+	 * Check if file exists
+	 *
+	 * @param  mixed $file if it's an array, the dir structure will be built.
+	 * @return bool
+	 */
+	public function file_exists( $file = '' ) {
+		return file_exists( $this->file_path( $file ) );
+	}
+
+	/**
 	 * Gets file url which is relative to plugin root
 	 *
 	 * @param  mixed $file if it's an array, the dir structure will be built.

@@ -1,0 +1,24 @@
+-
+  category: 'Category one'
+  items:
+    -
+      title: 'Title one'
+      link: 'https://google.com'
+      link_label: 'Read More about Google'
+      description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.'
+    -
+      title: 'Title two'
+      link: 'https://google.com'
+      description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.'
+-
+  category: 'Category two'
+  items:
+    -
+      title: 'Title one'
+      link: 'https://google.com'
+      link_label: 'Read More about Google'
+      description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.'
+    -
+      title: 'Title two'
+      link: 'https://google.com'
+      description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.'
