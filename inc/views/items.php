@@ -7,10 +7,10 @@
 
 ?>
 
-<?php foreach ( $this->get_var( 'checklist' ) as $category ) : ?>
+<?php foreach ( $this->get_var( 'checklist' ) as $category_name => $items ) : ?>
 	<div class="tc-assistant-category">
-		<h2><?php echo esc_html( $category['category'] ); ?></h2>
-		<?php foreach ( $category['items'] as $item_id => $item ) : ?>
+		<h2><?php echo esc_html( $category_name ); ?></h2>
+		<?php foreach ( $items as $item_id => $item ) : ?>
 			<div class="tc-assistant-item">
 				<div class="checkbox-col"><input type="checkbox" name="<?php echo esc_attr( $item_id ); ?>"></div>
 				<div class="content-col">
