@@ -10,9 +10,9 @@
 <?php foreach ( $this->get_var( 'checklist' ) as $category ) : ?>
 	<div class="tc-assistant-category">
 		<h2><?php echo esc_html( $category['category'] ); ?></h2>
-		<?php foreach ( $category['items'] as $item ) : ?>
+		<?php foreach ( $category['items'] as $item_id => $item ) : ?>
 			<div class="tc-assistant-item">
-				<div class="checkbox-col"><input type="checkbox" name="<?php echo esc_attr( tc_assistant_create_item_id( $category['category'], $item ) ); ?>"></div>
+				<div class="checkbox-col"><input type="checkbox" name="<?php echo esc_attr( $item_id ); ?>"></div>
 				<div class="content-col">
 					<h3><?php echo esc_html( $item['title'] ); ?></h3>
 					<?php if ( ! empty( $item['description'] ) ) : ?>
@@ -27,7 +27,6 @@
 							<?php endif; ?>
 						</a>
 					<?php endif; ?>
-
 				</div>
 			</div>
 		<?php endforeach; ?>

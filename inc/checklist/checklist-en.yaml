@@ -1,24 +1,24 @@
 -
   category: 'Category one'
   items:
-    -
+    uniqueid1:
       title: 'Title one'
       link: 'https://google.com'
       link_label: 'Read More about Google'
       description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.'
-    -
+    uniqueid2:
       title: 'Title two'
       link: 'https://google.com'
       description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.'
 -
   category: 'Category two'
   items:
-    -
+    uniqueid3:
       title: 'Title one'
       link: 'https://google.com'
       link_label: 'Read More about Google'
       description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.'
-    -
+    uniqueid4:
       title: 'Title two'
       link: 'https://google.com'
       description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.'
