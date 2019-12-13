@@ -76,8 +76,9 @@ class Runtime extends Utils\DocHooks {
 
 		$this->files = new Utils\Files( $this->plugin_file );
 
+		$this->options     = new Core\Options();
 		$this->scripts     = new Core\Scripts( $this, $this->files );
-		$this->checklist   = new Core\Checklist( $this->files );
+		$this->checklist   = new Core\Checklist( $this->files, $this->options );
 		$this->core_screen = new Core\Screen( $this->checklist );
 
 	}

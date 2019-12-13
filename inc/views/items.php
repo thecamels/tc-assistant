@@ -11,8 +11,8 @@
 	<div class="tc-assistant-category">
 		<h2><?php echo esc_html( $category_name ); ?></h2>
 		<?php foreach ( $items as $item_id => $item ) : ?>
-			<div class="tc-assistant-item">
-				<div class="checkbox-col"><input type="checkbox" name="<?php echo esc_attr( $item_id ); ?>"></div>
+			<div class="tc-assistant-item <?php echo ( $item['completed'] ) ? 'completed' : ''; ?>">
+				<div class="checkbox-col"><input type="checkbox" name="<?php echo esc_attr( $item_id ); ?>" data-nonce="<?php echo esc_attr( wp_create_nonce( $item_id ) ); ?>" <?php checked( true, $item['completed'] ); ?>></div>
 				<div class="content-col">
 					<h3><?php echo esc_html( $item['title'] ); ?></h3>
 					<?php if ( ! empty( $item['description'] ) ) : ?>

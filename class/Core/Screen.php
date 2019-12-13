@@ -68,7 +68,7 @@ class Screen {
 	 */
 	public function extensions_page() {
 		$view = tc_assistant_create_view();
-		$view->set_var( 'checklist', $this->checklist->get_config() );
+		$view->set_var( 'checklist', $this->checklist->get_items_with_state() );
 		$view->get_view( 'admin-page' );
 	}
 
