@@ -39,7 +39,7 @@ foreach ( $runtime->_called_doc_hooks as $class_name => $hooks ) {
 
 	foreach ( $hooks as $hook ) {
 		$hook_functions[] = sprintf(
-			"add_%s( '%s', [ %s, '%s' ], %d, %d );",
+			"add_%s( '%s', array( %s, '%s' ), %d, %d );",
 			$hook['type'],
 			$hook['name'],
 			$callback_object_name,

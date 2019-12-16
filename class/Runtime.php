@@ -20,7 +20,7 @@ class Runtime extends Utils\DocHooks {
 	 *
 	 * @var string
 	 */
-	private $plugin_file;
+	public $plugin_file;
 
 	/**
 	 * Class constructor
