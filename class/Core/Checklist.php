@@ -135,6 +135,7 @@ class Checklist extends Abstracts\YamlLoader {
 	/**
 	 * Gets item from config file via ID.
 	 *
+	 * @since 1.0.0
 	 * @param string $searched_item_id Searched item ID.
 	 * @return mixed
 	 */
@@ -150,6 +151,49 @@ class Checklist extends Abstracts\YamlLoader {
 			}
 		}
 		return null;
+	}
+
+	/**
+	 * Gets checksum calculated from item IDs
+	 *
+	 * @since 1.0.0
+	 * @return string
+	 */
+	public function get_checksum() {
+		$items = array();
+		foreach ( $this->get_config() as $category_name => $items ) {
+			foreach ( $items as $item_id => $item ) {
+				$items[] = $item_id;
+			}
+		}
+		sort( $items );
+		return md5( wp_json_encode( $items ) );
+	}
+
+	/**
+	 * Gets total number of items in checklist
+	 *
+	 * @since 1.0.0
+	 * @return int
+	 */
+	public function get_items_total() {
+		$count = 0;
+		foreach ( $this->get_config() as $category_name => $items ) {
+			foreach ( $items as $item_id => $item ) {
+				$count++;
+			}
+		}
+		return $count;
+	}
+
+	/**
+	 * Gets total number of completed items in checklist
+	 *
+	 * @since 1.0.0
+	 * @return int
+	 */
+	public function get_completed_items_total() {
+		return count( $this->options->get_completed_items() );
 	}
 
 }
