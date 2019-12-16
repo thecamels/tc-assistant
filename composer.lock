@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4805eb29734630ac5d63e79336723798",
+    "content-hash": "b63da6265c5794560824459c52cf55b9",
     "packages": [
         {
             "name": "symfony/polyfill-ctype",
@@ -122,6 +122,48 @@
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
             "time": "2019-11-18T17:27:11+00:00"
+        },
+        {
+            "name": "wptrt/admin-notices",
+            "version": "v1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/WPTRT/admin-notices.git",
+                "reference": "e7273bc32ac7a8f3e441e9899baedd776bc53b2a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/WPTRT/admin-notices/zipball/e7273bc32ac7a8f3e441e9899baedd776bc53b2a",
+                "reference": "e7273bc32ac7a8f3e441e9899baedd776bc53b2a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "WPTRT\\AdminNotices\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "WordPress.org Theme Review Team",
+                    "email": "themes@wordpress.org",
+                    "homepage": "https://make.wordpress.org/themes",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A class to create admin-notices for the WordPress dashboard.",
+            "homepage": "https://github.com/WPTRT/admin-notices",
+            "keywords": [
+                "wordpress"
+            ],
+            "time": "2019-09-22T14:52:04+00:00"
         }
     ],
     "packages-dev": [

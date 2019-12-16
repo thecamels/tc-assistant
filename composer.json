@@ -17,6 +17,7 @@
 		}
 	},
 	"require": {
-		"symfony/yaml": "^5.0"
+		"symfony/yaml": "^5.0",
+		"wptrt/admin-notices": "^1.0"
 	}
 }
