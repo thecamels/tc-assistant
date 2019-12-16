@@ -106,7 +106,7 @@ class Screen {
 			esc_html__( 'The Camels Assistant', 'tcassistant' ),
 			$message,
 			array(
-				'option_prefix' => 'tcassistant',
+				'option_prefix' => 'tc_assistant',
 			)
 		);
 
