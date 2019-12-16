@@ -178,7 +178,7 @@ class Checklist extends Abstracts\YamlLoader {
 	 */
 	public function get_items_total() {
 		$count = 0;
-		foreach ( $this->get_config() as $category_name => $items ) {
+		foreach ( $this->get_items_with_state() as $category_name => $items ) {
 			foreach ( $items as $item_id => $item ) {
 				$count++;
 			}
