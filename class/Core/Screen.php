@@ -57,10 +57,17 @@ class Screen {
 	 */
 	public function register_page() {
 
+		$items_left = (int) $this->checklist->get_items_total() - (int) $this->checklist->get_completed_items_total();
+		$page_title = sprintf(
+			'%s <span class="update-plugins"><span class="update-count">%d</span></span>',
+			__( 'TC Assistant', 'tcassistant' ),
+			$items_left
+		);
+
 		$this->page_hook = add_submenu_page(
 			'index.php',
 			__( 'The Camels Assistant', 'tcassistant' ),
-			__( 'The Camels Assistant', 'tcassistant' ),
+			$page_title,
 			'manage_options',
 			'tcassistant',
 			array( $this, 'extensions_page' )
