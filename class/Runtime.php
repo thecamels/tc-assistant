@@ -8,7 +8,6 @@
 namespace TheCamels\Assistant;
 
 use TheCamels\Assistant\Utils;
-use WPTRT\AdminNotices\Notices;
 
 /**
  * Runtime class
@@ -80,7 +79,7 @@ class Runtime extends Utils\DocHooks {
 		$this->options     = new Core\Options();
 		$this->scripts     = new Core\Scripts( $this, $this->files );
 		$this->checklist   = new Core\Checklist( $this->files, $this->options );
-		$this->core_screen = new Core\Screen( $this->checklist, new Notices() );
+		$this->core_screen = new Core\Screen( $this->checklist );
 
 	}
 
