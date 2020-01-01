@@ -1,0 +1,27 @@
+Pierwsze kroki po zainstalowaniu WordPressa:
+  uniqueid1:
+    title: 'Ukryj stronę przed innymi'
+    link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/#Ukryj_strone_przed_innymi'
+    link_label: 'Dowiedz się więcej'
+    description: 'Jeśli tworzysz stronę od razu na docelowym serwerze i pod docelowym adresem, warto zadbać o to, by efekty Twoich prac nie były widoczne dla innych przed oficjalną publikacją witryny.'
+  uniqueid2:
+    title: 'Uporządkuj WordPressa po instalacji'
+    link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/#Uporzadkuj_WordPressa_po_instalacji'
+    link_label: 'Dowiedz się więcej'
+    description: 'Domyślne ustawienia WordPressa mogą nie do końca spełniać Twoje oczekiwania. Dlatego warto wykonać kilka czynności, które to zmienią. Warto skasować przykładowe wpisy oraz komentarze.'
+  uniqueid3:
+    title: 'Ogranicz dostępy innym użytkownikom'
+    link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/#Ogranicz_dostepy_innym_uzytkownikom'
+    link_label: 'Dowiedz się więcej'
+    description: Jeśli dostęp do kokpitu będą mieć również inni użytkownicy to warto od razu ograniczyć ich uprawnienia, tak aby mieli dostęp tylko do potrzebnych im funkcji WordPressa. Dzięki temu już na etapie prac ograniczysz ryzyko tego, że osoba zajmująca się treściami na stronie nie zmieni Ci konfigurację WordPressa czy wygląd motywu.'
+  uniqueid4:
+    title: 'Zainstaluj podstawowe wtyczki'
+    link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/#Zainstaluj_podstawowe_wtyczki'
+    link_label: 'Dowiedz się więcej'
+    description: 'Przeanalizuj, jakie funkcje powinna posiadać tworzona przez Ciebie strona internetowa, a następnie przejdź do wyszukiwania wtyczek, które spełnią Twoje oczekiwania. Zobacz jak wybrać wtyczkę do WordPressa, jakie wtyczki są zalecane a jakie zakazane.'
+  uniqueid5:
+    title: 'Podrasuj plik wp-config.php'
+    link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/#Podrasuj_plik_wp-configphp'
+    link_label: 'Dowiedz się więcej'
+    description: 'W pliku wp-config.php warto dodać kilka linijek, które usprawnią Twoją pracę nad stroną i zoptymalizują jej działanie. Dodaj potrzebne wpisy za pomocą edytora tekstu i wgraj plik zmieniony na serwer.'
+Category two:
