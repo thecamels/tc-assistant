@@ -1,27 +1,48 @@
 Pierwsze kroki po zainstalowaniu WordPressa:
-  uniqueid1:
+  uid1:
     title: 'Ukryj stronę przed innymi'
     link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/#Ukryj_strone_przed_innymi'
     link_label: 'Dowiedz się więcej'
     description: 'Jeśli tworzysz stronę od razu na docelowym serwerze i pod docelowym adresem, warto zadbać o to, by efekty Twoich prac nie były widoczne dla innych przed oficjalną publikacją witryny.'
-  uniqueid2:
+  uid2:
     title: 'Uporządkuj WordPressa po instalacji'
     link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/#Uporzadkuj_WordPressa_po_instalacji'
     link_label: 'Dowiedz się więcej'
     description: 'Domyślne ustawienia WordPressa mogą nie do końca spełniać Twoje oczekiwania. Dlatego warto wykonać kilka czynności, które to zmienią. Warto skasować przykładowe wpisy oraz komentarze.'
-  uniqueid3:
+  uid3:
     title: 'Ogranicz dostępy innym użytkownikom'
     link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/#Ogranicz_dostepy_innym_uzytkownikom'
     link_label: 'Dowiedz się więcej'
     description: Jeśli dostęp do kokpitu będą mieć również inni użytkownicy to warto od razu ograniczyć ich uprawnienia, tak aby mieli dostęp tylko do potrzebnych im funkcji WordPressa. Dzięki temu już na etapie prac ograniczysz ryzyko tego, że osoba zajmująca się treściami na stronie nie zmieni Ci konfigurację WordPressa czy wygląd motywu.'
-  uniqueid4:
+  uid4:
     title: 'Zainstaluj podstawowe wtyczki'
     link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/#Zainstaluj_podstawowe_wtyczki'
     link_label: 'Dowiedz się więcej'
     description: 'Przeanalizuj, jakie funkcje powinna posiadać tworzona przez Ciebie strona internetowa, a następnie przejdź do wyszukiwania wtyczek, które spełnią Twoje oczekiwania. Zobacz jak wybrać wtyczkę do WordPressa, jakie wtyczki są zalecane a jakie zakazane.'
-  uniqueid5:
+  uid5:
     title: 'Podrasuj plik wp-config.php'
     link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/#Podrasuj_plik_wp-configphp'
     link_label: 'Dowiedz się więcej'
     description: 'W pliku wp-config.php warto dodać kilka linijek, które usprawnią Twoją pracę nad stroną i zoptymalizują jej działanie. Dodaj potrzebne wpisy za pomocą edytora tekstu i wgraj plik zmieniony na serwer.'
-Category two:
+Bezpieczeństwo:
+  uid1:
+    title: 'Ukryj stronę przed innymi'
+    link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/#Ukryj_strone_przed_innymi'
+    link_label: 'Dowiedz się więcej'
+    description: 'Jeśli tworzysz stronę od razu na docelowym serwerze i pod docelowym adresem, warto zadbać o to, by efekty Twoich prac nie były widoczne dla innych przed oficjalną publikacją witryny.'
+Wtyczki:
+  uid1:
+    title: 'Jak wybrać wtyczkę?'
+    link: 'https://thecamels.org/pl/jak-wybrac-wtyczke-do-wordpressa/'
+    link_label: 'Dowiedz się więcej'
+    description: 'Dowiedz się w jaki sposób wybrać wytyczkę do WordPressa. Nie jest to wcale taki prosty proces, a wybór odpowiedniego rozszerzenia może mieć kolosalne znaczenia na przyszłość Twojej sgtrony.'
+  uid2:
+    title: 'Przydatne wtyczki'
+    link: 'https://thecamels.org/pl/przydatne-wtyczki-do-wordpressa/'
+    link_label: 'Dowiedz się więcej'
+    description: 'Lista sprawdzonych i polecanych przez nas wtyczek. Pamiętaj, że wtyczek należy używać z rozwagą i nie instalować ich, jeżeli są nam zbędne.'
+  uid3:
+    title: 'Zakazane i niedozwolone wtyczki'
+    link: 'https://thecamels.org/pl/zakazane-i-niedozwolone-wtyczki-dla-wordpressa/'
+    link_label: 'Dowiedz się więcej'
+    description: 'Lista wtyczek jakie mogą popsuć Twoją stronę, drastycznie spowolnić jej działanie lub narazić na utratę danych. Pamiętaj, że wtyczek nalezy używać z rozwagą.'
