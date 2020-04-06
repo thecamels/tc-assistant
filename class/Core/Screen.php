@@ -56,7 +56,7 @@ class Screen {
 
 		$this->page_hook = add_submenu_page(
 			'index.php',
-			__( 'The Camels Assistant', 'tcassistant' ),
+			__( 'Thecamels Assistant', 'tcassistant' ),
 			$page_title,
 			'manage_options',
 			'tcassistant',

@@ -1,7 +1,7 @@
 {
 	"name": "thecamels/assistant",
 	"type": "wordpress-plugin",
-	"description": "The Camels Assistant WordPress plugin",
+	"description": "Thecamels Assistant WordPress plugin",
 	"scripts": {
 		"phpcs": "phpcs",
 		"phpcbf": "phpcbf"

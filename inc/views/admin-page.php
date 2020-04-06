@@ -10,7 +10,7 @@
 <div class="tc-assistant-wrap">
 
 	<div class="tc-assistant-header">
-		<h1><?php esc_html_e( 'The Camels Assistant', 'tcassistant' ); ?></h1>
+		<h1><?php esc_html_e( 'Thecamels Assistant', 'tcassistant' ); ?></h1>
 	</div>
 
 	<hr class="wp-header-end">
