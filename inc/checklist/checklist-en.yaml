@@ -1,20 +1,83 @@
-Category one:
-  uniqueid1:
-    title: 'Title one'
-    link: 'https://google.com'
-    link_label: 'Read More about Google'
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.'
-  uniqueid2:
-    title: 'Title two'
-    link: 'https://google.com'
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.'
-Category two:
-  uniqueid3:
-    title: 'Title one'
-    link: 'https://google.com'
-    link_label: 'Read More about Google'
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.'
-  uniqueid4:
-    title: 'Title two'
-    link: 'https://google.com'
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.'
+First steps after installing WordPress:
+  first1:
+    title: 'Hide a page from others'
+    link: 'https://thecamels.org/en/first-steps-after-installing-wordpress/#Hide_a_page_from_others'
+    link_label: 'Learn more'
+    description: 'If you create a page immediately on the target server and at the target address, it is worth making sure that the effects of your work are not visible to others before the official publication of the site.'
+  first2:
+    title: 'Organize WordPress after installation'
+    link: 'https://thecamels.org/en/first-steps-after-installing-wordpress/#Organize_WordPress_after_installation'
+    link_label: 'Learn more'
+    description: 'The default settings of WordPress may not fully meet your expectations. So there are a few steps to take to change this. Delete sample entries, comments and unnecessary plugins.'
+  first3:
+    title: 'Restrict access to other users'
+    link: 'https://thecamels.org/en/first-steps-after-installing-wordpress/#Restrict_access_to_other_users'
+    link_label: 'Learn more'
+    description: 'If other users also have access to the cockpit, it is worth limiting their permissions immediately, so that they can only access the WordPress functions they need. This will reduce the risk that the person responsible for the content on the site will not change the configuration of WordPress or the appearance of the theme.'
+  first4:
+    title: 'Install the basic plugins'
+    link: 'https://thecamels.org/en/first-steps-after-installing-wordpress/#Install_the_basic_plugins'
+    link_label: 'Learn more'
+    description: 'Analyze what functions your website should have, and then go on to search for plugins that will meet your expectations. See how to choose a plug-in for WordPress, which plugins are recommended and which are prohibited.'
+  first5:
+    title: 'Improve the file wp-config.php'
+    link: 'https://thecamels.org/en/first-steps-after-installing-wordpress/#Improve_the_file_wpconfig.php'
+    link_label: 'Learn more'
+    description: 'In the wp-config.php file it is worth adding a few lines that will improve your work on the site and optimize its operation. Add the necessary entries with a text editor and upload the changed file to the server.'
+Security:
+  security1:
+    title: 'Take care of the quality of passwords'
+    link: 'https://thecamels.org/en/compendium-how-to-secure-your-wordpress/#Take_care_of_the_quality_of_passwords'
+    link_label: 'Learn more'
+    description: 'The login data for services is one of the most desired information for cybercriminals, which may leak out during attacks. The most common mistake is to use the same password for many websites and use simply too weak passwords.'
+  security2:
+    title: 'Two-factor authentication'
+    link: 'https://thecamels.org/en/compendium-how-to-secure-your-wordpress/#Twofactor_authentication'
+    link_label: 'Learn more'
+    description: 'Usually we log in to many services using a login and password. Two Factor Authentication (2FA), is another barrier an attacker has to overcome in order to get to a service.'
+  security3:
+    title: 'Avoid outdated software'
+    link: 'https://thecamels.org/en/compendium-how-to-secure-your-wordpress/#Avoid_outdated_software'
+    link_label: 'Learn more'
+    description: 'Updates of software, operating system or applications on a mobile phone are a daily occurrence. When it comes to the security of your computer or your website, you shouldn't miss out on this.'
+  security4:
+    title: 'Disable editing of theme files and plugins'
+    link: 'https://thecamels.org/en/compendium-how-to-secure-your-wordpress/#Disable_editing_of_theme_files_and_plugins'
+    link_label: 'Learn more'
+    description: 'Editing plugins and themes from the WordPress panel is practically useless. Working with this editor is hard. Unfortunately, it is enabled by default and some malicious plugins can use it to add their code. This is how malware can spread.'
+  security5:
+    title: 'Disable user registration if you don’t need it'
+    link: 'https://thecamels.org/en/compendium-how-to-secure-your-wordpress/#Disable_user_registration_if_you_don%E2%80%99t_need_it'
+    link_label: 'Learn more'
+    description: 'An unsecured registration form may be the basis for taking control of the site. In the past, it has already happened several times that an attacker was able to create a new account for a new WordPress administrator using properly crafted data.'
+  security6:
+    title: 'Disable comments if they are unnecessary'
+    link: 'https://thecamels.org/en/compendium-how-to-secure-your-wordpress/#Disable_comments_if_they_are_unnecessary'
+    link_label: 'Learn more'
+    description: 'What is a blog if there are no comments on it? Well, there are some services based on WordPress that do not require a commenting system. Then it is worth disabling this feature so as not to expose our website and server to Denial of Service attacks.'
+  security7:
+    title: 'Enable two-factor authentication in WordPress'
+    link: 'https://thecamels.org/en/compendium-how-to-secure-your-wordpress/#Enable_twofactor_authentication_in_WordPress'
+    link_label: 'Learn more'
+    description: 'Enabling this feature in WordPress is trivially simple and comes down to installing Two Factor Authentication plugins. After installing it you will see a new Two Factor Auth tab in the panel where you can enable Two Factor Authentication for your account.'
+  security8:
+    title: 'Compendium: how to secure your WordPress?'
+    link: 'https://thecamels.org/en/compendium-how-to-secure-your-wordpress/'
+    link_label: 'Learn more'
+    description: 'A comprehensive compendium to take care of and protect your WordPress.'
+Plugins:
+  plugins1:
+    title: 'How do I choose a plugin'
+    link: 'https://thecamels.org/en/how-do-i-choose-a-wordpress-plugin/'
+    link_label: 'Learn more'
+    description: 'Find out how to choose a guideline for WordPress. It's not that simple, and choosing the right extension can make a huge difference to your website's future.'
+  plugins2:
+    title: 'Useful plugins'
+    link: 'https://thecamels.org/en/useful-plugins-for-wordpress/'
+    link_label: 'Learn more'
+    description: 'A list of proven and recommended plugins. Remember that plugins should be used with caution and do not install them if they are not needed.'
+  plugins3:
+    title: 'Prohibited and forbidden plugins'
+    link: 'https://thecamels.org/en/prohibited-and-forbidden-plugins-for-wordpress/'
+    link_label: 'Learn more'
+    description: 'A list of plugins that may break your website, drastically slow it down or expose you to data loss. Remember that plugins should be used with caution.'

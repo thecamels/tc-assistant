@@ -40,27 +40,27 @@ Bezpieczeństwo:
     link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/#Unikaj_przestarzalego_oprogramowania'
     link_label: 'Dowiedz się więcej'
     description: 'Aktualizacje oprogramowania, systemu operacyjnego czy aplikacji na telefonie komórkowym, są już codziennością. Dbając o bezpieczeństwo swojego komputera czy strony WWW, nie należy tego pomijać.'
-	bezpieczenstwo4:
+  bezpieczenstwo4:
     title: 'Wyłącz edycję plików motywów oraz wtyczek'
     link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/#Wylacz_edycje_plikow_motywow_oraz_wtyczek'
     link_label: 'Dowiedz się więcej'
     description: 'Edycja wtyczek oraz motywów z poziomu panelu WordPressa praktycznie się nie przydaje. Praca z tym edytorem jest ciężka. Niestety domyślnie jest on włączony i niektóre złośliwe wtyczki potrafią za jego pomocą dodać swój kod. Tak właśnie może rozprzestrzeniać się malware.'
-	bezpieczenstwo5:
+  bezpieczenstwo5:
     title: 'Wyłącz rejestrację użytkowników, jeżeli ich nie potrzebujesz'
     link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/#Wylacz_rejestracje_uzytkownikow_jezeli_ich_nie_potrzebujesz'
     link_label: 'Dowiedz się więcej'
     description: 'Niezabezpieczony formularz rejestracyjny może być podwaliną do przejęcia kontroli nad stroną. W przeszłości już kilka razy zdarzało się, że atakujący przy pomocy odpowiednio spreparowanych danych był w stanie założyć przy jego użyciu, konto nowego administratora WordPress.'
-	bezpieczenstwo6:
+  bezpieczenstwo6:
     title: 'Wyłącz komentarze, jeżeli są zbędne'
     link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/#Wylacz_komentarze_jezeli_sa_zbedne'
     link_label: 'Dowiedz się więcej'
     description: 'Czym jest blog jeżeli nie ma na nim komentarzy? No właśnie, ale są takie serwisy oparte o WordPressa, które nie wymagają systemu komentowania. Wtedy warto wyłączyć tę funkcję, aby nie narażać naszej strony oraz serwera na ataki typu Denial of Service.'
-	bezpieczenstwo7:
+  bezpieczenstwo7:
     title: 'Włącz dwuskładnikowe uwierzytelnianie w WordPressie'
     link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/#Wlacz_dwuskladnikowe_uwierzytelnianie_w_WordPressie'
     link_label: 'Dowiedz się więcej'
     description: 'Włączenie tej funkcji w WordPressie jest banalnie proste i sprowadza się do zainstalowania wtyczki Two Factor Authentication. Po jej zainstalowaniu pojawi nam się w panelu nowa zakładka Two Factor Auth, w której możemy włączyć autoryzację dwuskładnikową dla swojego konta.'
-	bezpieczenstwo8:
+  bezpieczenstwo8:
     title: 'Kompendium: Jak zabezpieczyć WordPressa?'
     link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/'
     link_label: 'Dowiedz się więcej'
@@ -70,7 +70,7 @@ Wtyczki:
     title: 'Jak wybrać wtyczkę?'
     link: 'https://thecamels.org/pl/jak-wybrac-wtyczke-do-wordpressa/'
     link_label: 'Dowiedz się więcej'
-    description: 'Dowiedz się w jaki sposób wybrać wytyczkę do WordPressa. Nie jest to wcale taki prosty proces, a wybór odpowiedniego rozszerzenia może mieć kolosalne znaczenia na przyszłość Twojej sgtrony.'
+    description: 'Dowiedz się w jaki sposób wybrać wtyczkę do WordPressa. Nie jest to wcale taki prosty proces, a wybór odpowiedniego rozszerzenia może mieć kolosalne znaczenia na przyszłość Twojej strony.'
   wtyczki2:
     title: 'Przydatne wtyczki'
     link: 'https://thecamels.org/pl/przydatne-wtyczki-do-wordpressa/'
@@ -80,4 +80,4 @@ Wtyczki:
     title: 'Zakazane i niedozwolone wtyczki'
     link: 'https://thecamels.org/pl/zakazane-i-niedozwolone-wtyczki-dla-wordpressa/'
     link_label: 'Dowiedz się więcej'
-    description: 'Lista wtyczek jakie mogą popsuć Twoją stronę, drastycznie spowolnić jej działanie lub narazić na utratę danych. Pamiętaj, że wtyczek nalezy używać z rozwagą.'
+    description: 'Lista wtyczek jakie mogą popsuć Twoją stronę, drastycznie spowolnić jej działanie lub narazić na utratę danych. Pamiętaj, że wtyczek należy używać z rozwagą.'
