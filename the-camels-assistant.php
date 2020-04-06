@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: The Camels Assistant
- * Description: TBD
- * Author: The Camels
- * Author URI: https://thecamels.org
+ * Plugin Name: Thecamels Assistant
+ * Description: Thecamels Assistant helps you with daily maintenance of your WordPress site.
+ * Author: Thecamels
+ * Author URI: https://thecamels.org/
  * Version: 1.0.0
  * License: GPL3
  * Text Domain: tcassistant
