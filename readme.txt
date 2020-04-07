@@ -31,9 +31,16 @@ No.
 
 Yes.
 
+= I have a different question than listed here =
+
+You can ask us using our [contact form](https://thecamels.org/en/contact/).
+
 == Screenshots ==
+
+1. Main screen of Thecamels Assistant with task to do.
+2. First task is marked as done.
 
 == Changelog ==
 
-= 1.0.0 =
+= 1.0 =
 * Initial version
