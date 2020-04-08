@@ -1,110 +1,110 @@
 Pierwsze kroki po zainstalowaniu WordPressa:
   pierwsze1:
     title: 'Ukryj stronę przed innymi'
-    link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/#Ukryj_strone_przed_innymi'
+    link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant#Ukryj_strone_przed_innymi'
     link_label: 'Dowiedz się więcej'
     description: 'Jeśli tworzysz stronę od razu na docelowym serwerze i pod docelowym adresem, warto zadbać o to, by efekty Twoich prac nie były widoczne dla innych przed oficjalną publikacją witryny. Po skończonych pracach cofnij te zmiany i pokaż stronę każdemu.'
   pierwsze2:
     title: 'Uporządkuj WordPressa po instalacji'
-    link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/#Uporzadkuj_WordPressa_po_instalacji'
+    link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant#Uporzadkuj_WordPressa_po_instalacji'
     link_label: 'Dowiedz się więcej'
     description: 'Domyślne ustawienia WordPressa mogą nie do końca spełniać Twoje oczekiwania. Dlatego warto wykonać kilka czynności, które to zmienią. Warto skasować przykładowe wpisy, komentarze oraz zbędne wtyczki.'
   pierwsze3:
     title: 'Ogranicz dostępy innym użytkownikom'
-    link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/#Ogranicz_dostepy_innym_uzytkownikom'
+    link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant#Ogranicz_dostepy_innym_uzytkownikom'
     link_label: 'Dowiedz się więcej'
     description: 'Jeśli dostęp do kokpitu będą mieć również inni użytkownicy to warto od razu ograniczyć ich uprawnienia, tak aby mieli dostęp tylko do potrzebnych im funkcji WordPressa. Dzięki temu już na etapie prac ograniczysz ryzyko tego, że osoba zajmująca się treściami na stronie nie zmieni Ci konfigurację WordPressa czy wygląd motywu.'
   pierwsze4:
     title: 'Zainstaluj podstawowe wtyczki'
-    link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/#Zainstaluj_podstawowe_wtyczki'
+    link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant#Zainstaluj_podstawowe_wtyczki'
     link_label: 'Dowiedz się więcej'
     description: 'Przeanalizuj, jakie funkcje powinna posiadać tworzona przez Ciebie strona internetowa, a następnie przejdź do wyszukiwania wtyczek, które spełnią Twoje oczekiwania. Zobacz jak wybrać wtyczkę do WordPressa, jakie wtyczki są zalecane a jakie zakazane.'
   pierwsze5:
     title: 'Podrasuj plik wp-config.php'
-    link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/#Podrasuj_plik_wp-configphp'
+    link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant#Podrasuj_plik_wp-configphp'
     link_label: 'Dowiedz się więcej'
     description: 'W pliku wp-config.php warto dodać kilka linijek, które usprawnią Twoją pracę nad stroną i zoptymalizują jej działanie. Dodaj potrzebne wpisy za pomocą edytora tekstu i wgraj plik zmieniony na serwer.'
 Bezpieczeństwo:
   bezpieczenstwo1:
     title: 'Dbaj o jakość haseł'
-    link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/#Dbaj_o_jakosc_hasel'
+    link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant#Dbaj_o_jakosc_hasel'
     link_label: 'Dowiedz się więcej'
     description: 'Dane logowania do serwisów to jedne z najbardziej pożądanych przez cyberprzestępców informacji, które mogą wycieknąć przy okazji ataków. Najczęściej popełnianym błędem jest korzystanie z tego samego hasła do wielu serwisów oraz używanie po prostu za słabych haseł.'
   bezpieczenstwo2:
     title: 'Dwuskładnikowe uwierzytelnianie'
-    link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/#Dwuskladnikowe_uwierzytelnianie'
+    link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant#Dwuskladnikowe_uwierzytelnianie'
     link_label: 'Dowiedz się więcej'
     description: 'Zazwyczaj do wielu serwisów logujemy się za pomocą loginu oraz hasła. Dwuskładnikowe uwierzytelnienie (ang. Two Factor Authentication, 2FA), jest kolejną barierą jaką musi pokonać atakujący, aby dostać się do serwisu.'
   bezpieczenstwo3:
     title: 'Unikaj przestarzałego oprogramowania'
-    link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/#Unikaj_przestarzalego_oprogramowania'
+    link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant#Unikaj_przestarzalego_oprogramowania'
     link_label: 'Dowiedz się więcej'
     description: 'Aktualizacje oprogramowania, systemu operacyjnego czy aplikacji na telefonie komórkowym, są już codziennością. Dbając o bezpieczeństwo swojego komputera czy strony WWW, nie należy tego pomijać.'
   bezpieczenstwo4:
     title: 'Wyłącz edycję plików motywów oraz wtyczek'
-    link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/#Wylacz_edycje_plikow_motywow_oraz_wtyczek'
+    link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant#Wylacz_edycje_plikow_motywow_oraz_wtyczek'
     link_label: 'Dowiedz się więcej'
     description: 'Edycja wtyczek oraz motywów z poziomu panelu WordPressa praktycznie się nie przydaje. Praca z tym edytorem jest ciężka. Niestety domyślnie jest on włączony i niektóre złośliwe wtyczki potrafią za jego pomocą dodać swój kod. Tak właśnie może rozprzestrzeniać się malware.'
   bezpieczenstwo5:
     title: 'Wyłącz rejestrację użytkowników, jeżeli ich nie potrzebujesz'
-    link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/#Wylacz_rejestracje_uzytkownikow_jezeli_ich_nie_potrzebujesz'
+    link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant#Wylacz_rejestracje_uzytkownikow_jezeli_ich_nie_potrzebujesz'
     link_label: 'Dowiedz się więcej'
     description: 'Niezabezpieczony formularz rejestracyjny może być podwaliną do przejęcia kontroli nad stroną. W przeszłości już kilka razy zdarzało się, że atakujący przy pomocy odpowiednio spreparowanych danych był w stanie założyć przy jego użyciu, konto nowego administratora WordPress.'
   bezpieczenstwo6:
     title: 'Wyłącz komentarze, jeżeli są zbędne'
-    link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/#Wylacz_komentarze_jezeli_sa_zbedne'
+    link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant#Wylacz_komentarze_jezeli_sa_zbedne'
     link_label: 'Dowiedz się więcej'
     description: 'Czym jest blog jeżeli nie ma na nim komentarzy? No właśnie, ale są takie serwisy oparte o WordPressa, które nie wymagają systemu komentowania. Wtedy warto wyłączyć tę funkcję, aby nie narażać naszej strony oraz serwera na ataki typu Denial of Service.'
   bezpieczenstwo7:
     title: 'Włącz dwuskładnikowe uwierzytelnianie w WordPressie'
-    link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/#Wlacz_dwuskladnikowe_uwierzytelnianie_w_WordPressie'
+    link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant#Wlacz_dwuskladnikowe_uwierzytelnianie_w_WordPressie'
     link_label: 'Dowiedz się więcej'
     description: 'Włączenie tej funkcji w WordPressie jest banalnie proste i sprowadza się do zainstalowania wtyczki Two Factor Authentication. Po jej zainstalowaniu pojawi nam się w panelu nowa zakładka Two Factor Auth, w której możemy włączyć autoryzację dwuskładnikową dla swojego konta.'
   bezpieczenstwo8:
     title: 'Jak dochodzi do włamania na WordPressa?'
-    link: 'https://thecamels.org/pl/jak-dochodzi-do-wlamania-na-wordpressa/'
+    link: 'https://thecamels.org/pl/jak-dochodzi-do-wlamania-na-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant'
     link_label: 'Dowiedz się więcej'
     description: 'Dowiesz się w jaki sposób najczęściej dochodzi do włamania na witryny internetowe. Czy winny jest temu hosting, czy raczej brak dbania o witrynę internetową?'
   bezpieczenstwo9:
     title: 'Kompendium: Jak zabezpieczyć WordPressa?'
-    link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/'
+    link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant'
     link_label: 'Dowiedz się więcej'
     description: 'Kompleksowe kompendium, które pozwoli zadbać i zabezpieczyć Twojego WordPressa.'
 Wtyczki:
   wtyczki1:
     title: 'Jak wybrać wtyczkę?'
-    link: 'https://thecamels.org/pl/jak-wybrac-wtyczke-do-wordpressa/'
+    link: 'https://thecamels.org/pl/jak-wybrac-wtyczke-do-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant'
     link_label: 'Dowiedz się więcej'
     description: 'Dowiedz się w jaki sposób wybrać wtyczkę do WordPressa. Nie jest to wcale taki prosty proces, a wybór odpowiedniego rozszerzenia może mieć kolosalne znaczenia na przyszłość Twojej strony.'
   wtyczki2:
     title: 'Przydatne wtyczki'
-    link: 'https://thecamels.org/pl/przydatne-wtyczki-do-wordpressa/'
+    link: 'https://thecamels.org/pl/przydatne-wtyczki-do-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant'
     link_label: 'Dowiedz się więcej'
     description: 'Lista sprawdzonych i polecanych przez nas wtyczek. Pamiętaj, że wtyczek należy używać z rozwagą i nie instalować ich, jeżeli są nam zbędne.'
   wtyczki3:
     title: 'Zakazane i niedozwolone wtyczki'
-    link: 'https://thecamels.org/pl/zakazane-i-niedozwolone-wtyczki-dla-wordpressa/'
+    link: 'https://thecamels.org/pl/zakazane-i-niedozwolone-wtyczki-dla-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant'
     link_label: 'Dowiedz się więcej'
     description: 'Lista wtyczek jakie mogą popsuć Twoją stronę, drastycznie spowolnić jej działanie lub narazić na utratę danych. Pamiętaj, że wtyczek należy używać z rozwagą.'
 Okresowy przegląd WordPressa:
   przeglad1:
     title: 'Jak wykonać okresowy przegląd WordPressa?'
-    link: 'https://thecamels.org/pl/jak-wykonac-okresowy-przeglad-wordpressa/'
+    link: 'https://thecamels.org/pl/jak-wykonac-okresowy-przeglad-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant'
     link_label: 'Dowiedz się więcej'
     description: 'Prace nad stroną opartą na WordPressie nie kończą się po ukończeniu prac programistycznych. Wszystko podlega stałemu rozwojowi i WordPress oraz jego ekosystem, nie są tu wyjątkiem. Dlatego warto raz na jakiś czas zrobić okresowy przegląd swojego WordPressa – szczególnie jeśli zarabiasz dzięki swojej stronie.'
 Ogólne:
   ogolne1:
     title: 'Potrzebujesz strony internetowej? 5 rzeczy o których musisz pamiętać'
-    link: 'https://thecamels.org/pl/potrzebujesz-strony-internetowej-5-rzeczy-o-ktorych-musisz-pamietac/'
+    link: 'https://thecamels.org/pl/potrzebujesz-strony-internetowej-5-rzeczy-o-ktorych-musisz-pamietac/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant'
     link_label: 'Dowiedz się więcej'
     description: 'Tworzenie stron internetowych jest z reguły złożonym procesem, który bardziej od złożenia zamówienia i czekanie na kuriera, przypomina proces szycia produktu „na miarę”. Podczas realizacji projektu, jak i już po wdrożeniu, może pojawić się wiele niespodziewanych kosztów. Chciałbym zwrócić Twoją uwagę na 5 aspektów, które pomogą Ci uniknąć niepotrzebnego zaskoczenia i nieporozumień.'
   ogolne2:
     title: 'Jak uniknąć zbędnych kosztów i problemów z usługami IT?'
-    link: 'https://thecamels.org/pl/jak-uniknac-zbednych-kosztow-i-problemow-z-uslugami-it/'
+    link: 'https://thecamels.org/pl/jak-uniknac-zbednych-kosztow-i-problemow-z-uslugami-it/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant'
     link_label: 'Dowiedz się więcej'
     description: 'Ludzie z natury są wygodni i leniwi. Jeśli prowadzisz mały biznes to mam dla Ciebie złą wiadomość – dla dobra swojego interesu, czasem będziesz musiał wysilić się trochę bardziej oraz poświęcić odrobinę czasu by zadbać o cyfrowe bezpieczeństwo swojej firmy.'
   ogolne3:
     title: 'Źródła darmowych zdjęć i filmów na Twojego bloga'
-    link: 'https://thecamels.org/pl/zrodla-darmowych-zdjec-i-filmow-na-twojego-bloga/'
+    link: 'https://thecamels.org/pl/zrodla-darmowych-zdjec-i-filmow-na-twojego-bloga/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant'
     link_label: 'Dowiedz się więcej'
     description: 'Zadziwiająco wiele osób wciąż wierzy w to, że można wejść w wyszukiwarkę, wpisać odpowiednią frazę, znaleźć zdjęcie i po prostu skopiować je na swoją stronę internetową. Niestety coraz częściej oznacza to problemy z tytułu praw autorskich. Na szczęście mamy też coraz więcej serwisów z darmowymi zdjęciami i filmami.'
