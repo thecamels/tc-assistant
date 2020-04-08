@@ -21,7 +21,7 @@ Pierwsze kroki po zainstalowaniu WordPressa:
     description: 'Przeanalizuj, jakie funkcje powinna posiadać tworzona przez Ciebie strona internetowa, a następnie przejdź do wyszukiwania wtyczek, które spełnią Twoje oczekiwania. Zobacz jak wybrać wtyczkę do WordPressa, jakie wtyczki są zalecane a jakie zakazane.'
   pierwsze5:
     title: 'Podrasuj plik wp-config.php'
-    link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant#Podrasuj_plik_wp-configphp'
+    link: 'https://thecamels.org/pl/pierwsze-kroki-po-zainstalowaniu-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant#Podrasuj_plik_wpconfig.php'
     link_label: 'Dowiedz się więcej'
     description: 'W pliku wp-config.php warto dodać kilka linijek, które usprawnią Twoją pracę nad stroną i zoptymalizują jej działanie. Dodaj potrzebne wpisy za pomocą edytora tekstu i wgraj plik zmieniony na serwer.'
 Bezpieczeństwo:
