@@ -61,6 +61,11 @@ Bezpieczeństwo:
     link_label: 'Dowiedz się więcej'
     description: 'Włączenie tej funkcji w WordPressie jest banalnie proste i sprowadza się do zainstalowania wtyczki Two Factor Authentication. Po jej zainstalowaniu pojawi nam się w panelu nowa zakładka Two Factor Auth, w której możemy włączyć autoryzację dwuskładnikową dla swojego konta.'
   bezpieczenstwo8:
+    title: 'Jak dochodzi do włamania na WordPressa?'
+    link: 'https://thecamels.org/pl/jak-dochodzi-do-wlamania-na-wordpressa/'
+    link_label: 'Dowiedz się więcej'
+    description: 'Dowiesz się w jaki sposób najczęściej dochodzi do włamania na witryny internetowe. Czy winny jest temu hosting, czy raczej brak dbania o witrynę internetową?'
+  bezpieczenstwo9:
     title: 'Kompendium: Jak zabezpieczyć WordPressa?'
     link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/'
     link_label: 'Dowiedz się więcej'
@@ -81,3 +86,25 @@ Wtyczki:
     link: 'https://thecamels.org/pl/zakazane-i-niedozwolone-wtyczki-dla-wordpressa/'
     link_label: 'Dowiedz się więcej'
     description: 'Lista wtyczek jakie mogą popsuć Twoją stronę, drastycznie spowolnić jej działanie lub narazić na utratę danych. Pamiętaj, że wtyczek należy używać z rozwagą.'
+Okresowy przegląd WordPressa:
+  przeglad1:
+    title: 'Jak wykonać okresowy przegląd WordPressa?'
+    link: 'https://thecamels.org/pl/jak-wykonac-okresowy-przeglad-wordpressa/'
+    link_label: 'Dowiedz się więcej'
+    description: 'Prace nad stroną opartą na WordPressie nie kończą się po ukończeniu prac programistycznych. Wszystko podlega stałemu rozwojowi i WordPress oraz jego ekosystem, nie są tu wyjątkiem. Dlatego warto raz na jakiś czas zrobić okresowy przegląd swojego WordPressa – szczególnie jeśli zarabiasz dzięki swojej stronie.'
+Ogólne:
+  ogolne1:
+    title: 'Potrzebujesz strony internetowej? 5 rzeczy o których musisz pamiętać'
+    link: 'https://thecamels.org/pl/potrzebujesz-strony-internetowej-5-rzeczy-o-ktorych-musisz-pamietac/'
+    link_label: 'Dowiedz się więcej'
+    description: 'Tworzenie stron internetowych jest z reguły złożonym procesem, który bardziej od złożenia zamówienia i czekanie na kuriera, przypomina proces szycia produktu „na miarę”. Podczas realizacji projektu, jak i już po wdrożeniu, może pojawić się wiele niespodziewanych kosztów. Chciałbym zwrócić Twoją uwagę na 5 aspektów, które pomogą Ci uniknąć niepotrzebnego zaskoczenia i nieporozumień.'
+  ogolne2:
+    title: 'Jak uniknąć zbędnych kosztów i problemów z usługami IT?'
+    link: 'https://thecamels.org/pl/jak-uniknac-zbednych-kosztow-i-problemow-z-uslugami-it/'
+    link_label: 'Dowiedz się więcej'
+    description: 'Ludzie z natury są wygodni i leniwi. Jeśli prowadzisz mały biznes to mam dla Ciebie złą wiadomość – dla dobra swojego interesu, czasem będziesz musiał wysilić się trochę bardziej oraz poświęcić odrobinę czasu by zadbać o cyfrowe bezpieczeństwo swojej firmy.'
+  ogolne3:
+    title: 'Źródła darmowych zdjęć i filmów na Twojego bloga'
+    link: 'https://thecamels.org/pl/zrodla-darmowych-zdjec-i-filmow-na-twojego-bloga/'
+    link_label: 'Dowiedz się więcej'
+    description: 'Zadziwiająco wiele osób wciąż wierzy w to, że można wejść w wyszukiwarkę, wpisać odpowiednią frazę, znaleźć zdjęcie i po prostu skopiować je na swoją stronę internetową. Niestety coraz częściej oznacza to problemy z tytułu praw autorskich. Na szczęście mamy też coraz więcej serwisów z darmowymi zdjęciami i filmami.'

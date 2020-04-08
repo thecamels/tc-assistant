@@ -61,6 +61,11 @@ Security:
     link_label: 'Learn more'
     description: 'Enabling this feature in WordPress is trivially simple and comes down to installing Two Factor Authentication plugins. After installing it you will see a new Two Factor Auth tab in the panel where you can enable Two Factor Authentication for your account.'
   security8:
+    title: 'How do you hack into WordPress?'
+    link: 'https://thecamels.org/en/how-do-you-hack-into-wordpress/'
+    link_label: 'Learn more'
+    description: 'You will find out how websites are most often hacked. Is hosting guilty of this or rather not taking care of your website?'
+  security9:
     title: 'Compendium: how to secure your WordPress?'
     link: 'https://thecamels.org/en/compendium-how-to-secure-your-wordpress/'
     link_label: 'Learn more'
@@ -81,3 +86,26 @@ Plugins:
     link: 'https://thecamels.org/en/prohibited-and-forbidden-plugins-for-wordpress/'
     link_label: 'Learn more'
     description: 'A list of plugins that may break your website, drastically slow it down or expose you to data loss. Remember that plugins should be used with caution.'
+Periodic review of WordPress:
+  review1:
+    title: 'How do I perform a periodic review of WordPress?'
+    link: 'https://thecamels.org/en/how-do-i-perform-a-periodic-review-of-wordpress/'
+    link_label: 'Learn more'
+    description: 'Work on the website based on WordPress does not end after the completion of programming work. Everything is constantly evolving and WordPress and its ecosystem are no exception. That’s why it’s worth doing a periodic review of your WordPress from time to time – especially if you earn money from your website.'
+Other:
+  other1:
+    title: 'Need a website? 5 things to keep in mind'
+    link: 'https://thecamels.org/en/need-a-website-5-things-to-keep-in-mind/'
+    link_label: 'Learn more'
+    description: 'Creating websites is usually a complex process, which more than placing an order and waiting for a courier, resembles the process of sewing a “tailor-made” product. During project implementation, as well as after implementation, many unexpected costs may occur. I would like to draw your attention to 5 aspects that will help you avoid unnecessary surprises and misunderstandings.'
+  other2:
+    title: 'How to avoid unnecessary costs and problems with IT services?'
+    link: 'https://thecamels.org/en/how-to-avoid-unnecessary-costs-and-problems-with-it-services/'
+    link_label: 'Learn more'
+    description: 'People are comfortable and lazy by nature. If you run a small business, I have bad news for you – for the sake of your business, sometimes you’ll have to do a little more and take the time to take care of your company’s digital security.'
+  other3:
+    title: 'Sources of free photos and videos on your blog'
+    link: 'https://thecamels.org/en/sources-of-free-photos-and-videos-on-your-blog/'
+    link_label: 'Learn more'
+    description: 'Surprisingly many people still believe that you can enter the search engine, type in the right phrase, find a picture and simply copy it to your website. Unfortunately, more and more often this means copyright problems. Fortunately, we also have more and more websites with free pictures and videos.'
+
