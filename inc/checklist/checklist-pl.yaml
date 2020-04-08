@@ -47,7 +47,7 @@ Bezpieczeństwo:
     description: 'Edycja wtyczek oraz motywów z poziomu panelu WordPressa praktycznie się nie przydaje. Praca z tym edytorem jest ciężka. Niestety domyślnie jest on włączony i niektóre złośliwe wtyczki potrafią za jego pomocą dodać swój kod. Tak właśnie może rozprzestrzeniać się malware.'
   bezpieczenstwo5:
     title: 'Wyłącz rejestrację użytkowników, jeżeli ich nie potrzebujesz'
-    link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant#Wylacz_rejestracje_uzytkownikow_jezeli_ich_nie_potrzebujesz'
+    link: 'https://thecamels.org/pl/kompendium-jak-zabezpieczyc-wordpressa/?utm_source=plugin&utm_medium=plugin&utm_campaign=tc-assistant#Wylacz_rejestracje_uzytkownikow,_jezeli_ich_nie_potrzebujesz'
     link_label: 'Dowiedz się więcej'
     description: 'Niezabezpieczony formularz rejestracyjny może być podwaliną do przejęcia kontroli nad stroną. W przeszłości już kilka razy zdarzało się, że atakujący przy pomocy odpowiednio spreparowanych danych był w stanie założyć przy jego użyciu, konto nowego administratora WordPress.'
   bezpieczenstwo6:
