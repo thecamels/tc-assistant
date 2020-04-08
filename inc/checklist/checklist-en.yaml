@@ -39,7 +39,7 @@ Security:
     title: 'Avoid outdated software'
     link: 'https://thecamels.org/en/compendium-how-to-secure-your-wordpress/#Avoid_outdated_software'
     link_label: 'Learn more'
-    description: 'Updates of software, operating system or applications on a mobile phone are a daily occurrence. When it comes to the security of your computer or your website, you shouldn't miss out on this.'
+    description: 'Updates of software, operating system or applications on a mobile phone are a daily occurrence. When it comes to the security of your computer or your website, you shouldnt miss out on this.'
   security4:
     title: 'Disable editing of theme files and plugins'
     link: 'https://thecamels.org/en/compendium-how-to-secure-your-wordpress/#Disable_editing_of_theme_files_and_plugins'
@@ -70,7 +70,7 @@ Plugins:
     title: 'How do I choose a plugin'
     link: 'https://thecamels.org/en/how-do-i-choose-a-wordpress-plugin/'
     link_label: 'Learn more'
-    description: 'Find out how to choose a guideline for WordPress. It's not that simple, and choosing the right extension can make a huge difference to your website's future.'
+    description: 'Find out how to choose a guideline for WordPress. Its not that simple, and choosing the right extension can make a huge difference to your websites future.'
   plugins2:
     title: 'Useful plugins'
     link: 'https://thecamels.org/en/useful-plugins-for-wordpress/'

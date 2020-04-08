@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: Thecamels Assistant
- * Description: Thecamels Assistant helps you with daily maintenance of your WordPress site.
+ * Description: Thecamels Assistant helps you with maintenance of your WordPress site. It will add simply task to do on daily basis.
  * Author: Thecamels
  * Author URI: https://thecamels.org/
- * Version: 1.0.0
+ * Version: 1.1
  * License: GPL3
  * Text Domain: tcassistant
  * Domain Path: /languages

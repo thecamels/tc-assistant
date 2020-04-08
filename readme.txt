@@ -1,15 +1,15 @@
 === Thecamels Assistant ===
 Contributors: paszczak000
 Donate link: https://thecamels.org/pl/
-Tags: checklist, assistant, thecamels
+Tags: checklist, assistant, thecamels, security, todo,
 Requires at least: 5.0
 Tested up to: 5.4
 Requires PHP: 5.6
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Thecamels Assistant helps you with daily maintenance of your WordPress site.
+Thecamels Assistant helps you with maintenance of your WordPress site.
 
 == Description ==
 
@@ -19,7 +19,19 @@ The plug-in contains a list of tasks that should be performed regularly when usi
 
 == Installation ==
 
-Upload the Thecamels Assistant plugin to your blog and Activate it.
+= From your WordPress dashboard =
+
+1. Visit *Plugins > Add New*.
+2. Search for 'Thecamels Assistant' and press the 'Install Now' button for the plugin named 'Thecamels Assistant' by 'Thecamels'.
+3. Activate the plugin from your *Plugins* page.
+4. Go to the *Dashboard > TC Assistant* and start using it.
+
+= From WordPress.org site =
+
+1. Download the plugin named 'Thecamels Assistant' by 'Thecamels'.
+2. Upload the `thecamels-assistant` directory to your `/wp-content/plugins/` directory.
+3. Activate the plugin from your Plugins page.
+4. Go to the *Dashboard > TC Assistant* and start using it.
 
 == Frequently Asked Questions ==
 
@@ -41,6 +53,12 @@ You can ask us using our [contact form](https://thecamels.org/en/contact/).
 2. First task is marked as done.
 
 == Changelog ==
+
+= 1.1 =
+* Add new task into checklist
+* Add missing images
+* Move security stuff up
+* Fix checklist for english language
 
 = 1.0 =
 * Initial version
