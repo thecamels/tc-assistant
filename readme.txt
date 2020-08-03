@@ -3,9 +3,9 @@ Contributors: paszczak000
 Donate link: https://thecamels.org/pl/
 Tags: checklist, assistant, thecamels, security, todo,
 Requires at least: 5.0
-Tested up to: 5.4
-Requires PHP: 5.6
-Stable tag: 1.1
+Tested up to: 5.5
+Requires PHP: 7.0
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -53,6 +53,9 @@ You can ask us using our [contact form](https://thecamels.org/en/contact/).
 2. First task is marked as done.
 
 == Changelog ==
+
+= 1.2 =
+* WordPress 5.5 support
 
 = 1.1 =
 * Add new task into checklist
