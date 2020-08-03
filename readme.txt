@@ -1,7 +1,7 @@
 === Thecamels Assistant ===
 Contributors: paszczak000
 Donate link: https://thecamels.org/pl/
-Tags: checklist, assistant, thecamels, security, todo,
+Tags: checklist, assistant, thecamels, security, todo, helper
 Requires at least: 5.0
 Tested up to: 5.5
 Requires PHP: 7.0

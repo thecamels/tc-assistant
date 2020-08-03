@@ -4,7 +4,7 @@
  * Description: Thecamels Assistant helps you with maintenance of your WordPress site. It will add simply task to do on daily basis.
  * Author: Thecamels
  * Author URI: https://thecamels.org/
- * Version: 1.1
+ * Version: 1.2
  * License: GPL3
  * Text Domain: tcassistant
  * Domain Path: /languages
