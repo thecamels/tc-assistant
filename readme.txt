@@ -3,7 +3,7 @@ Contributors: paszczak000
 Donate link: https://thecamels.org/pl/
 Tags: checklist, assistant, thecamels, security, todo, helper
 Requires at least: 5.0
-Tested up to: 5.5
+Tested up to: 5.7
 Requires PHP: 7.0
 Stable tag: 1.2
 License: GPLv2 or later
